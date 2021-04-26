@@ -6,8 +6,8 @@ div {
   margin: 5px;
 }
 
-table,tr,th {
-  border: 1px solid#bde0fe;
+table, th, td {
+  border: 1px solid #a2d2ff;
 }
 table {
   width: 100%;

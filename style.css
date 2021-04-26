@@ -6,10 +6,9 @@ div {
   margin: 5px;
 }
 
-table, td, th {
+table,tr,th {
   border: 1px solid#bde0fe;
 }
-
 table {
   width: 100%;
   border-collapse: collapse;
